@@ -52,7 +52,7 @@
         <mxCell id="MCTeS0WO4B-k0CeAPKlD-23" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="140.75" y="718" width="50.5" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="MCTeS0WO4B-k0CeAPKlD-24" value="CPU&lt;div&gt;（計算処理）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MCTeS0WO4B-k0CeAPKlD-24" value="CPU&lt;div&gt;（処理実行）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="86" y="763" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
