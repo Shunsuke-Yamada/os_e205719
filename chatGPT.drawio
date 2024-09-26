@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
+  <diagram name="ページ1" id="aud5nrd0_GXWxuJBES0C">
+    <mxGraphModel dx="545" dy="753" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kCRMIi8UFep1VhHM9rXP-1" value="ユーザ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCRMIi8UFep1VhHM9rXP-2" value="OS&lt;div&gt;(Linux)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="168" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCRMIi8UFep1VhHM9rXP-3" value="ストレージ&lt;div&gt;（モデル / データ）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227" y="295" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCRMIi8UFep1VhHM9rXP-4" value="メモリ（RAM）&lt;div&gt;（データ保持）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="295" width="160.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCRMIi8UFep1VhHM9rXP-5" value="ライブラリ&lt;div&gt;（TensorFlow / Pytorch）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="422" width="161" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCRMIi8UFep1VhHM9rXP-6" value="モデル&lt;div&gt;（ChatCPT）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="551" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCRMIi8UFep1VhHM9rXP-7" value="GPU&lt;div&gt;（計算処理）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="679" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCRMIi8UFep1VhHM9rXP-8" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="189.75" y="123.5" width="50.5" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="kCRMIi8UFep1VhHM9rXP-9" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="145" y="251" width="50.5" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="kCRMIi8UFep1VhHM9rXP-10" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="234" y="251" width="50.5" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="kCRMIi8UFep1VhHM9rXP-11" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="161" y="377" width="50.5" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="kCRMIi8UFep1VhHM9rXP-13" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="189.75" y="505" width="50.5" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="kCRMIi8UFep1VhHM9rXP-14" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="189.75" y="634" width="50.5" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="kCRMIi8UFep1VhHM9rXP-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kCRMIi8UFep1VhHM9rXP-7" target="kCRMIi8UFep1VhHM9rXP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCRMIi8UFep1VhHM9rXP-16" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="189.75" y="762" width="50.5" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="kCRMIi8UFep1VhHM9rXP-17" value="CPU&lt;div&gt;（処理実行）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="807" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
