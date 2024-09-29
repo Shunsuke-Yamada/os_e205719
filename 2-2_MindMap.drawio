@@ -1,0 +1,108 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16" pages="2">
+  <diagram id="r20UwwFtGe8WUOyLcScw" name="ページ1">
+    <mxGraphModel dx="514" dy="478" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XCxKn7Y0eJvYBjpFLPc7-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="XCxKn7Y0eJvYBjpFLPc7-2" target="XCxKn7Y0eJvYBjpFLPc7-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XCxKn7Y0eJvYBjpFLPc7-2" value="ユーザ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="168" y="40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XCxKn7Y0eJvYBjpFLPc7-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="XCxKn7Y0eJvYBjpFLPc7-5" target="XCxKn7Y0eJvYBjpFLPc7-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XCxKn7Y0eJvYBjpFLPc7-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="XCxKn7Y0eJvYBjpFLPc7-5" target="XCxKn7Y0eJvYBjpFLPc7-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XCxKn7Y0eJvYBjpFLPc7-5" value="OS&lt;div&gt;(Linux)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="168" y="168" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XCxKn7Y0eJvYBjpFLPc7-6" value="ストレージ&lt;div&gt;（モデル / データ）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="295" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XCxKn7Y0eJvYBjpFLPc7-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="XCxKn7Y0eJvYBjpFLPc7-8" target="XCxKn7Y0eJvYBjpFLPc7-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XCxKn7Y0eJvYBjpFLPc7-8" value="メモリ（RAM）&lt;div&gt;（データ保持）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="73" y="295" width="160.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XCxKn7Y0eJvYBjpFLPc7-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="XCxKn7Y0eJvYBjpFLPc7-10" target="XCxKn7Y0eJvYBjpFLPc7-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XCxKn7Y0eJvYBjpFLPc7-10" value="ライブラリ&lt;div&gt;（TensorFlow / Pytorch）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="168" y="422" width="161" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XCxKn7Y0eJvYBjpFLPc7-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="XCxKn7Y0eJvYBjpFLPc7-12" target="XCxKn7Y0eJvYBjpFLPc7-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XCxKn7Y0eJvYBjpFLPc7-12" value="モデル&lt;div&gt;（ChatCPT）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="168" y="551" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XCxKn7Y0eJvYBjpFLPc7-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="XCxKn7Y0eJvYBjpFLPc7-14" target="XCxKn7Y0eJvYBjpFLPc7-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XCxKn7Y0eJvYBjpFLPc7-14" value="GPU&lt;div&gt;（計算処理）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="168" y="679" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XCxKn7Y0eJvYBjpFLPc7-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="XCxKn7Y0eJvYBjpFLPc7-14" target="XCxKn7Y0eJvYBjpFLPc7-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XCxKn7Y0eJvYBjpFLPc7-16" value="CPU&lt;div&gt;（処理実行）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="168" y="807" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XCxKn7Y0eJvYBjpFLPc7-17" value="API : GraphQL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="267" y="119.5" width="118" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XCxKn7Y0eJvYBjpFLPc7-18" value="API : POSIX API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="40" y="247" width="128" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XCxKn7Y0eJvYBjpFLPc7-19" value="API : SQL API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="328" y="247" width="116.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XCxKn7Y0eJvYBjpFLPc7-20" value="API : Pytorch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="227" y="373" width="118" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XCxKn7Y0eJvYBjpFLPc7-21" value="API : TensorFlow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="267" y="501" width="134" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XCxKn7Y0eJvYBjpFLPc7-22" value="API : cuDNN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="267" y="634" width="103" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XCxKn7Y0eJvYBjpFLPc7-23" value="API : OpenCL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="276" y="758" width="112" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NGVx_UhqCNDl4XH7E-6A" name="ページ2">
+    <mxGraphModel dx="1367" dy="637" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="byfCw66FeAw58e0qkBUH-2" value="File Write&lt;div&gt;(ファイルの書き出し)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="170" y="185" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="byfCw66FeAw58e0qkBUH-4" value="ファイルシステム" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="212" y="27" width="149" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="byfCw66FeAw58e0qkBUH-5" value="I/Oスケジューリング" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="406" y="27" width="170" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="byfCw66FeAw58e0qkBUH-6" value="バッファリング" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="416.5" y="146" width="149" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="byfCw66FeAw58e0qkBUH-7" value="ハードウェア" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="416.5" y="289" width="149" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="byfCw66FeAw58e0qkBUH-8" value="OSの設定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="207" y="334" width="149" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="byfCw66FeAw58e0qkBUH-9" value="ネットワーク" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="182" width="149" height="65" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
